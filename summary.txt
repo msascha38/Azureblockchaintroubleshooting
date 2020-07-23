@@ -1,0 +1,19 @@
+Summary Report Output
+=====================
+
+[1] Recommended Actions
+ * Did not detect heartbeat from the following services: eth-watcher eth-tx-submitter appbuilder.messaging
+
+[2] Last Telemetry Timestamp, Per Component
+
+ServiceName         LastLog                     
+-----------         -------                     
+appbuilder.api      2020-07-23T18:07:33.4625128Z
+telemetry-collector 2020-07-23T17:22:40.5235213Z
+
+
+
+
+[3] Top Errors, Last 18 hours
+
+
